@@ -1,0 +1,17 @@
+src/main/java/com/example/employee
+    ├── controller
+    │   └── EmployeeController.java
+    ├── model
+    │   └── Employee.java
+    ├── repository
+    │   └── EmployeeRepository.java
+    └── EmployeeApplication.java
+src/main/resources
+    ├── application.properties
+    └── templates
+        └── index.html
+pom.xml
+
+
+
+My personnel laptop is not working fine so I have used in office laptop. above is the file path 
